@@ -28,9 +28,11 @@ void spila( );
 //mismargar hrúgur í hvert og eitt skipti:
 int hrugufjoldi;
 
+
 //Hér byrjar aðalforritið:
 int main( )
 {
+	cout << "Elias Andri Andrason" << endl;
 	int val;
 	do
 	{
